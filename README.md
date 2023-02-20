@@ -1,4 +1,9 @@
 ### Hi there 👋
+### I'm Yinan 😄
+### I'm a GIS and Data Science lover and begainer
+### I'm Currently learning Python and Google Earth Engine 🌱
+### Feel Free to contact me throught [email](mailto:feng.945@osu.edu)
+### My [personal webpage](https://u.osu.edu/feng.945/)
 
 <!--
 **Feng96/Feng96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
