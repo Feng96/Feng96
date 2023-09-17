@@ -3,7 +3,7 @@
 ### I'm a GIS and Data Science lover and begainer ⚡
 ### Research experiences in R and Python 🌱
 ### Feel Free to contact me through [email](mailto:feng.945@osu.edu) 📫
-### My [personal webpage](https://u.osu.edu/feng.945/) 💬
+### My [personal webpage](https://www.yinanfeng.com/) 💬
 
 <!--
 **Feng96/Feng96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
